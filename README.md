@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=2241F7&multiline=true&repeat=false&random=false&width=440&lines=This+is+Gopika+Purnima)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="400" height="320" src="https://im2.ezgif.com/tmp/ezgif-2-b5808b4d09.gif">
+<img align="right" alt="coding" width="300" height="300" src="https://im2.ezgif.com/tmp/ezgif-2-b5808b4d09.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=4DF715&multiline=true&random=false&width=470&height=70&lines=A+Passionate+Data+Scientist+Transforming;Raw+Data+into+Intelligent+Solutions+%F0%9F%8C%90)](https://git.io/typing-svg)
 
